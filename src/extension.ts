@@ -32,12 +32,10 @@ function paintDuplicatedValues(currentDuplicatedValues: Row[]) {
 			overviewRulerColor: 'red',
 			overviewRulerLane: vscode.OverviewRulerLane.Right,
 			light: {
-				backgroundColor: 'rgba(255, 110, 110, 1)',
-				color: '#fff'
+				outline: '1px solid red',
 			},
 			dark: {
-				backgroundColor: 'rgba(255, 110, 110, 1)',
-				color: '#fff'
+				outline: '1px solid red',
 			},
 		});
 
