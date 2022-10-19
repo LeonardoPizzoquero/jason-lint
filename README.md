@@ -12,9 +12,9 @@ Very useful when you must not have the same value in different keys, eg translat
 
 ## Example
 
-![image](https://github.com/LeonardoPizzoquero/jason-lint/blob/main/images/example.png)
+![image](https://raw.githubusercontent.com/LeonardoPizzoquero/jason-lint/main/images/example.png)
 
 
 ## Happy coding
 
-![image](https://github.com/LeonardoPizzoquero/jason-lint/blob/main/images/happy-13.gif)
+![image](https://raw.githubusercontent.com/LeonardoPizzoquero/jason-lint/main/images/happy-13.gif)

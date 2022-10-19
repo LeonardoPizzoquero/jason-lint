@@ -19,7 +19,7 @@
     "onLanguage:json"
   ],
   "main": "./out/extension.js",
-  "publisher": "Leonardo Pizzoquero",
+  "publisher": "LeoPizzoquero",
   "contributes": {
     "commands": [
       {
