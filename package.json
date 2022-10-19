@@ -2,10 +2,15 @@
   "name": "jason-lint",
   "displayName": "JASON Lint",
   "description": "Find duplicate object values of your JSON files",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeonardoPizzoquero/jason-lint"
+  },
   "engines": {
     "vscode": "^1.72.0"
   },
+  "icon": "images/icon.png",
   "categories": [
     "Linters"
   ],
