@@ -89,6 +89,18 @@ export function activate(context: vscode.ExtensionContext) {
 		vscode.commands.executeCommand('jason-lint.jasonLint');
 	});
 
+	vscode.workspace.onDidCreateFiles(() => {
+		vscode.commands.executeCommand('jason-lint.jasonLint');
+	});
+
+	vscode.workspace.onDidRenameFiles(() => {
+		vscode.commands.executeCommand('jason-lint.jasonLint');
+	});
+
+	vscode.window.onDidChangeActiveTextEditor(() => {
+		vscode.commands.executeCommand('jason-lint.jasonLint');
+	});
+
 	context.subscriptions.push(disposable);
 }
 

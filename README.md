@@ -5,6 +5,7 @@ Very useful when you must not have the same value in different keys, eg translat
 
 ## How to trigger verification?
 
+- By searching with Ctrl + Shift + P -> JASON Lint and executing the command;
 - Opening any JSON file;
 - Saving any JSON file;
 - Changing any JSON file content.
